@@ -1,0 +1,8 @@
+Recommend sprint execution priorities for a Kanban board.
+
+Sprint goal: {sprint_goal}
+Team capacity: {team_capacity}
+Candidate tasks:
+{tasks}
+
+Return: top priorities, dependency notes, risk flags, and a short next-action list. Do not invent facts not provided.

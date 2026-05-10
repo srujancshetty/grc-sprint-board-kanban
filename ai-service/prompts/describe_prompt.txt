@@ -1,0 +1,9 @@
+Create a clear Kanban task description for a sprint board.
+
+Task title: {task_title}
+Business context: {business_context}
+Current state: {current_state}
+Requirements:
+{requirements}
+
+Return concise sections: Summary, Acceptance Criteria, Risks, Test Notes.

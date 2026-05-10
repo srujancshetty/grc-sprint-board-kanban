@@ -1,0 +1,11 @@
+Generate a sprint status report for stakeholders.
+
+Sprint: {sprint_name}
+Completed tasks: {completed_tasks}
+Total tasks: {total_tasks}
+Key deliverables:
+{key_deliverables}
+Blockers:
+{blockers}
+
+Return: Executive Summary, Progress, Risks, Next Steps. Keep the report factual and based only on this data.
